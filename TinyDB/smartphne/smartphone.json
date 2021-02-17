@@ -1,0 +1,9 @@
+{
+  "_default": {
+    "1": { "id": 1, "category": "smartphone", "company": "Samsung" },
+    "2": { "id": 2, "category": "smartphone", "company": "Apple" },
+    "3": { "id": 3, "category": "smartphone", "company": "Huawei" },
+    "4": { "id": 4, "category": "smartphone", "company": "Oppo" },
+    "5": { "id": 5, "category": "smartphone", "company": "Xiomi" }
+  }
+}
